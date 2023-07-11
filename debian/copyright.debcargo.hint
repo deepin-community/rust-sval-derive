@@ -4,8 +4,13 @@ Upstream-Contact: Ashley Mannix <ashleymannix@live.com.au>
 Source: https://github.com/sval-rs/sval
 
 Files: *
-Copyright: 2018-2020 Ashley Mannix <ashleymannix@live.com.au>
+Copyright: FIXME (overlay) UNKNOWN-YEARS Ashley Mannix <ashleymannix@live.com.au>
 License: Apache-2.0 or MIT
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
 
 Files: debian/*
 Copyright:
